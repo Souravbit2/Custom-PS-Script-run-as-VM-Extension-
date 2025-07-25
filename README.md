@@ -47,4 +47,4 @@ PowerShell File: Here you have two main choices:
 Provide the SAS URL of your Chromeinstall.ps1 script (the one you uploaded to Blob Storage).
 
 **Step 4: Verify Installation**
-Once the extension shows "Succeeded" in the Azure portal, RDP into your Windows 10 VM and verify that "MyApp" has been installed correctly.
+Once the extension shows "Succeeded" in the Azure portal, RDP into your Windows 10 VM and verify that "Chrome" has been installed correctly.
